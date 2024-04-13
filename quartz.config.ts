@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "♾️➡️1️⃣ All in one",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        body: "Noto Serif Simplified Chinese",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {

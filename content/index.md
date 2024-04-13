@@ -1,6 +1,5 @@
 ---
 title: Welcome to Quartz
 ---
+[[Is All-in-one an Illusion]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
