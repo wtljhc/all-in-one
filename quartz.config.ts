@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Noto Sans SC",
+        body: "Noto Serif SC",
         code: "Fira Code",
       },
       colors: {
